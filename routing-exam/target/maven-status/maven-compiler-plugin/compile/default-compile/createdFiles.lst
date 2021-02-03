@@ -1,0 +1,7 @@
+com\wixpress\exams\routing\api\RoutingServiceException.class
+com\wixpress\exams\routing\api\RoutingService.class
+com\wixpress\exams\routing\api\RoutingResolverException.class
+com\wixpress\exams\routing\api\RoutingResolverService.class
+com\wixpress\exams\routing\api\RouteRule.class
+com\wixpress\exams\routing\service\RoutingResolverServiceImpl.class
+com\wixpress\exams\routing\service\RoutingServiceImpl.class
